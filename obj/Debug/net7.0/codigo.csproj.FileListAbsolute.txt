@@ -1,0 +1,15 @@
+/Users/nick/Downloads/clases/udem/- Compiladores y rutinas de software/codigo/archivos/bin/Debug/net7.0/codigo
+/Users/nick/Downloads/clases/udem/- Compiladores y rutinas de software/codigo/archivos/bin/Debug/net7.0/codigo.deps.json
+/Users/nick/Downloads/clases/udem/- Compiladores y rutinas de software/codigo/archivos/bin/Debug/net7.0/codigo.runtimeconfig.json
+/Users/nick/Downloads/clases/udem/- Compiladores y rutinas de software/codigo/archivos/bin/Debug/net7.0/codigo.dll
+/Users/nick/Downloads/clases/udem/- Compiladores y rutinas de software/codigo/archivos/bin/Debug/net7.0/codigo.pdb
+/Users/nick/Downloads/clases/udem/- Compiladores y rutinas de software/codigo/archivos/obj/Debug/net7.0/codigo.csproj.AssemblyReference.cache
+/Users/nick/Downloads/clases/udem/- Compiladores y rutinas de software/codigo/archivos/obj/Debug/net7.0/codigo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nick/Downloads/clases/udem/- Compiladores y rutinas de software/codigo/archivos/obj/Debug/net7.0/codigo.AssemblyInfoInputs.cache
+/Users/nick/Downloads/clases/udem/- Compiladores y rutinas de software/codigo/archivos/obj/Debug/net7.0/codigo.AssemblyInfo.cs
+/Users/nick/Downloads/clases/udem/- Compiladores y rutinas de software/codigo/archivos/obj/Debug/net7.0/codigo.csproj.CoreCompileInputs.cache
+/Users/nick/Downloads/clases/udem/- Compiladores y rutinas de software/codigo/archivos/obj/Debug/net7.0/codigo.dll
+/Users/nick/Downloads/clases/udem/- Compiladores y rutinas de software/codigo/archivos/obj/Debug/net7.0/refint/codigo.dll
+/Users/nick/Downloads/clases/udem/- Compiladores y rutinas de software/codigo/archivos/obj/Debug/net7.0/codigo.pdb
+/Users/nick/Downloads/clases/udem/- Compiladores y rutinas de software/codigo/archivos/obj/Debug/net7.0/codigo.genruntimeconfig.cache
+/Users/nick/Downloads/clases/udem/- Compiladores y rutinas de software/codigo/archivos/obj/Debug/net7.0/ref/codigo.dll
